@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWall", "TheWall\TheWall.csproj", "{163E4D1F-8D61-4AD2-964D-7E146763F88C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WallSetup", "WallSetup\WallSetup.vdproj", "{9BD7D1E6-A3B9-4996-BBBA-E4D8AB6358C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{163E4D1F-8D61-4AD2-964D-7E146763F88C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163E4D1F-8D61-4AD2-964D-7E146763F88C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163E4D1F-8D61-4AD2-964D-7E146763F88C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163E4D1F-8D61-4AD2-964D-7E146763F88C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BD7D1E6-A3B9-4996-BBBA-E4D8AB6358C6}.Debug|Any CPU.ActiveCfg = Debug
+		{9BD7D1E6-A3B9-4996-BBBA-E4D8AB6358C6}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
